@@ -16,6 +16,9 @@ The project covers these concepts:
 
 If you are a beginner and would like me to explain something in the code, or if you already know PHP and have some recommendation for the project, plese [create an issue](https://github.com/banago/simple-php-website/issues/new) or hit me up on Twitter [@banago](https://twitter.com/banago).
 
-## Lisence
+
+#Full Credit to MIT - This is not my own work - Just for the Learning purpose
+
+## Lisence belongs to 
 
 MIT
